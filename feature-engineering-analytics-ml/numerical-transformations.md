@@ -1,0 +1,40 @@
+---
+title: Numerical Transformations: Scaling, Normalization, and Binning
+---
+
+# Numerical Transformations: Scaling, Normalization, and Binning
+
+
+
+
+:::{note}
+This chapter is a placeholder. Use the AI-powered chapter editor to generate content.
+:::
+
+## Overview
+
+This chapter covers **Numerical Transformations: Scaling, Normalization, and Binning**.
+
+Content coming soon...
+
+## Key Topics
+
+- Topic 1
+- Topic 2
+- Topic 3
+
+## Examples
+
+```python
+# Example code will be added here
+print("Hello from Numerical Transformations: Scaling, Normalization, and Binning")
+```
+
+## Summary
+
+Summary of Numerical Transformations: Scaling, Normalization, and Binning will be added here.
+
+---
+
+*Last updated: 2025-12-18*
+
